@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1027828182762",
+    "project_id": "veknhek",
+    "storage_bucket": "veknhek.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027828182762:android:b096ebdaa605076a18b193",
+        "android_client_info": {
+          "package_name": "com.example.veknhek"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ8eoqoZjiCCrMRWVDcFXt84Xhc8LSfqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
